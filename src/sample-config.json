@@ -1,0 +1,4 @@
+{
+    "clientId":"<TWITCH CLIENT ID>",
+    "redirectUri" :"<App redirectrUri>"
+}
